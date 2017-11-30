@@ -1,0 +1,2 @@
+# Transmitting-Receiving
+We are members of RIT Satellite Club. We are working on various projects related to space and rockets. Right now we are working on our small-scale vacation project.  The project is related to the balloon satellite. We are collecting some analogue information about the environment using an Arduino/Microcomputer sensors and micro-boards. We are want to transmit that collected analogue information over the range of 25 km. If you have any solutions please suggest it.
